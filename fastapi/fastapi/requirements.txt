@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+databases[postgresql]
+SQLAlchemy
+alembic
+psycopg2
